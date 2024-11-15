@@ -1,0 +1,11 @@
+Generation	Number of Cars Visited All Three Zones	Number of Cars Returned After Visiting All Three Zones
+1			2			2
+2			2			0
+3			3			1
+4			2			1
+5			2			0
+6			5			3
+7			3			2
+8			3			3
+9			3			2
+10			4			3

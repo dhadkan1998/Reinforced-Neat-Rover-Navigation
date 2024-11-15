@@ -1,0 +1,11 @@
+Generation			Max Fitness from that generation				Average Fitness from that generation
+1						19836						3476.76
+2						25230						3391.2
+3						17107						4130.52
+4						22890						2716.6
+5						20926						2818.04
+6						19526						4188.2
+7						17782						2497.2
+8						19595						3829.12
+9						18378						1871.72
+10						19777						2379.32

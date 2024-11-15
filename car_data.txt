@@ -1,0 +1,946 @@
+Car: 0
+Green Zone Visit Order: [(2, 3), (6, 3), (8, 3), (7, 1)]
+Green Zone Visit Times:
+Zone (2, 3): 5900 ms    Generation: 1
+Zone (6, 3): 21813 ms    Generation: 1
+Zone (8, 3): 31133 ms    Generation: 1
+Zone (7, 1): 39697 ms    Generation: 1
+Visit Sequences Per Generation:
+Generation 1: [((2, 3), 5900), ((6, 3), 21813), ((8, 3), 31133), ((7, 1), 39697)]
+Generation 2: [((6, 3), 9089), ((8, 3), 18145), ((7, 1), 28449)]
+Generation 3: [((6, 3), 9411), ((8, 3), 21193), ((7, 1), 32901)]
+Generation 4: [((6, 3), 9075), ((8, 3), 18837)]
+Generation 5: [((6, 3), 10063), ((8, 3), 19480), ((7, 1), 32577)]
+Generation 6: [((6, 3), 9712), ((8, 3), 19656)]
+Generation 7: [((2, 3), 6996), ((6, 3), 25654)]
+Generation 8: [((2, 3), 6693), ((6, 3), 19673), ((8, 3), 29342), ((7, 1), 38273)]
+Generation 9: [((2, 3), 7692)]
+Generation 10: [((2, 3), 5989)]
+Generations where all 3 zones were visited: [2, 3, 5]
+Times for each zone in the first generation where all zones were visited:
+Zone (6, 3): 9089 ms
+Zone (8, 3): 18145 ms
+Zone (7, 1): 28449 ms
+
+Car: 1
+Green Zone Visit Order: [(7, 1), (2, 3), (6, 3), (8, 3)]
+Green Zone Visit Times:
+Zone (7, 1): 8531 ms    Generation: 1
+Zone (2, 3): 7360 ms    Generation: 2
+Zone (6, 3): 9993 ms    Generation: 4
+Zone (8, 3): 17002 ms    Generation: 4
+Visit Sequences Per Generation:
+Generation 1: [((7, 1), 8531)]
+Generation 2: [((2, 3), 7360)]
+Generation 3: [((2, 3), 10948)]
+Generation 4: [((6, 3), 9993), ((8, 3), 17002)]
+Generation 5: []
+Generation 6: [((2, 3), 6242)]
+Generation 7: [((2, 3), 6997), ((6, 3), 25709)]
+Generation 8: [((2, 3), 7737), ((6, 3), 18582), ((8, 3), 30037)]
+Generation 9: [((2, 3), 7693)]
+Generation 10: []
+Generations where all 3 zones were visited: [8]
+Times for each zone in the first generation where all zones were visited:
+Zone (2, 3): 7737 ms
+Zone (6, 3): 18582 ms
+Zone (8, 3): 30037 ms
+
+Car: 2
+Green Zone Visit Order: [(2, 3), (6, 3), (8, 3), (7, 1)]
+Green Zone Visit Times:
+Zone (2, 3): 21430 ms    Generation: 1
+Zone (6, 3): 23743 ms    Generation: 6
+Zone (8, 3): 20200 ms    Generation: 7
+Zone (7, 1): 31470 ms    Generation: 7
+Visit Sequences Per Generation:
+Generation 1: [((2, 3), 21430)]
+Generation 2: [((2, 3), 5324)]
+Generation 3: [((2, 3), 6103)]
+Generation 4: [((2, 3), 7829)]
+Generation 5: []
+Generation 6: [((2, 3), 7609), ((6, 3), 23743)]
+Generation 7: [((6, 3), 9502), ((8, 3), 20200), ((7, 1), 31470)]
+Generation 8: [((2, 3), 6695), ((6, 3), 17341), ((8, 3), 24226)]
+Generation 9: [((2, 3), 7693)]
+Generation 10: [((2, 3), 7699)]
+Generations where all 3 zones were visited: [7, 8]
+Times for each zone in the first generation where all zones were visited:
+Zone (6, 3): 9502 ms
+Zone (8, 3): 20200 ms
+Zone (7, 1): 31470 ms
+
+Car: 3
+Green Zone Visit Order: [(6, 3), (2, 3)]
+Green Zone Visit Times:
+Zone (6, 3): 10374 ms    Generation: 3
+Zone (2, 3): 5557 ms    Generation: 5
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: [((6, 3), 10374)]
+Generation 4: []
+Generation 5: [((2, 3), 5557)]
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: [((2, 3), 5857)]
+
+Car: 4
+Green Zone Visit Order: [(2, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 9765 ms    Generation: 1
+Visit Sequences Per Generation:
+Generation 1: [((2, 3), 9765)]
+Generation 2: []
+Generation 3: [((2, 3), 5615)]
+Generation 4: []
+Generation 5: [((2, 3), 6919)]
+Generation 6: []
+Generation 7: []
+Generation 8: [((2, 3), 8846)]
+Generation 9: []
+Generation 10: []
+
+Car: 5
+Green Zone Visit Order: [(2, 3), (8, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 5205 ms    Generation: 4
+Zone (8, 3): 21560 ms    Generation: 5
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: []
+Generation 4: [((2, 3), 5205)]
+Generation 5: [((2, 3), 7304), ((8, 3), 21560)]
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
+Car: 6
+Green Zone Visit Order: [(2, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 21432 ms    Generation: 1
+Visit Sequences Per Generation:
+Generation 1: [((2, 3), 21432)]
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: [((2, 3), 10101)]
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: [((2, 3), 5851)]
+Generation 10: []
+
+Car: 7
+Green Zone Visit Order: [(2, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 21433 ms    Generation: 1
+Visit Sequences Per Generation:
+Generation 1: [((2, 3), 21433)]
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: [((2, 3), 7876)]
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
+Car: 8
+Green Zone Visit Order: [(2, 3), (6, 3), (8, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 10951 ms    Generation: 3
+Zone (6, 3): 25181 ms    Generation: 10
+Zone (8, 3): 33311 ms    Generation: 10
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: [((2, 3), 10951)]
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: [((2, 3), 23190)]
+Generation 10: [((2, 3), 7703), ((6, 3), 25181), ((8, 3), 33311)]
+Generations where all 3 zones were visited: [10]
+Times for each zone in the first generation where all zones were visited:
+Zone (2, 3): 7703 ms
+Zone (6, 3): 25181 ms
+Zone (8, 3): 33311 ms
+
+Car: 9
+Green Zone Visit Order: [(2, 3), (8, 3), (7, 1)]
+Green Zone Visit Times:
+Zone (2, 3): 21433 ms    Generation: 1
+Zone (8, 3): 31061 ms    Generation: 8
+Zone (7, 1): 39833 ms    Generation: 8
+Visit Sequences Per Generation:
+Generation 1: [((2, 3), 21433)]
+Generation 2: [((2, 3), 5219)]
+Generation 3: []
+Generation 4: []
+Generation 5: [((2, 3), 5997)]
+Generation 6: []
+Generation 7: []
+Generation 8: [((8, 3), 31061), ((7, 1), 39833)]
+Generation 9: []
+Generation 10: []
+
+Car: 10
+Green Zone Visit Order: [(2, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 14408 ms    Generation: 2
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: [((2, 3), 14408)]
+Generation 3: []
+Generation 4: []
+Generation 5: [((2, 3), 5498)]
+Generation 6: [((2, 3), 5958)]
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
+Car: 11
+Green Zone Visit Order: [(7, 1), (2, 3)]
+Green Zone Visit Times:
+Zone (7, 1): 11774 ms    Generation: 1
+Zone (2, 3): 6439 ms    Generation: 2
+Visit Sequences Per Generation:
+Generation 1: [((7, 1), 11774)]
+Generation 2: [((2, 3), 6439)]
+Generation 3: [((2, 3), 5209)]
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
+Car: 12
+Green Zone Visit Order: [(6, 3), (8, 3), (2, 3)]
+Green Zone Visit Times:
+Zone (6, 3): 11891 ms    Generation: 1
+Zone (8, 3): 24182 ms    Generation: 1
+Zone (2, 3): 5210 ms    Generation: 3
+Visit Sequences Per Generation:
+Generation 1: [((6, 3), 11891), ((8, 3), 24182)]
+Generation 2: []
+Generation 3: [((2, 3), 5210)]
+Generation 4: [((2, 3), 6112)]
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: [((2, 3), 7700)]
+Generation 10: []
+
+Car: 13
+Green Zone Visit Order: [(2, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 21435 ms    Generation: 1
+Visit Sequences Per Generation:
+Generation 1: [((2, 3), 21435)]
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: [((2, 3), 5304)]
+Generation 8: []
+Generation 9: []
+Generation 10: [((2, 3), 5999)]
+
+Car: 14
+Green Zone Visit Order: [(2, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 6193 ms    Generation: 3
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: [((2, 3), 6193)]
+Generation 4: []
+Generation 5: [((2, 3), 7592)]
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: [((2, 3), 7701)]
+Generation 10: []
+
+Car: 15
+Green Zone Visit Order: [(2, 3), (8, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 21436 ms    Generation: 1
+Zone (8, 3): 29961 ms    Generation: 6
+Visit Sequences Per Generation:
+Generation 1: [((2, 3), 21436)]
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: []
+Generation 6: [((2, 3), 7613), ((8, 3), 29961)]
+Generation 7: []
+Generation 8: [((2, 3), 5066)]
+Generation 9: []
+Generation 10: []
+
+Car: 16
+Green Zone Visit Order: [(7, 1)]
+Green Zone Visit Times:
+Zone (7, 1): 11778 ms    Generation: 1
+Visit Sequences Per Generation:
+Generation 1: [((7, 1), 11778)]
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
+Car: 17
+Green Zone Visit Order: [(2, 3), (6, 3), (8, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 9772 ms    Generation: 1
+Zone (6, 3): 9996 ms    Generation: 4
+Zone (8, 3): 17006 ms    Generation: 4
+Visit Sequences Per Generation:
+Generation 1: [((2, 3), 9772)]
+Generation 2: [((2, 3), 7093)]
+Generation 3: []
+Generation 4: [((6, 3), 9996), ((8, 3), 17006)]
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: [((2, 3), 8505)]
+Generation 9: []
+Generation 10: []
+
+Car: 18
+Green Zone Visit Order: [(2, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 5964 ms    Generation: 6
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: []
+Generation 6: [((2, 3), 5964)]
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: [((2, 3), 5807)]
+
+Car: 19
+Green Zone Visit Order: [(2, 3), (8, 3), (7, 1), (6, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 8810 ms    Generation: 6
+Zone (8, 3): 12954 ms    Generation: 7
+Zone (7, 1): 26066 ms    Generation: 7
+Zone (6, 3): 12692 ms    Generation: 8
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: []
+Generation 6: [((2, 3), 8810)]
+Generation 7: [((8, 3), 12954), ((7, 1), 26066)]
+Generation 8: [((6, 3), 12692), ((8, 3), 19388)]
+Generation 9: []
+Generation 10: []
+
+Car: 20
+Green Zone Visit Order: [(2, 3), (6, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 5965 ms    Generation: 6
+Zone (6, 3): 16039 ms    Generation: 7
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: []
+Generation 6: [((2, 3), 5965)]
+Generation 7: [((2, 3), 6108), ((6, 3), 16039)]
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
+Car: 21
+Green Zone Visit Order: [(2, 3), (6, 3), (8, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 5818 ms    Generation: 1
+Zone (6, 3): 16894 ms    Generation: 9
+Zone (8, 3): 25237 ms    Generation: 9
+Visit Sequences Per Generation:
+Generation 1: [((2, 3), 5818)]
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: [((2, 3), 6552)]
+Generation 6: [((2, 3), 5966)]
+Generation 7: []
+Generation 8: []
+Generation 9: [((2, 3), 5862), ((6, 3), 16894), ((8, 3), 25237)]
+Generation 10: []
+Generations where all 3 zones were visited: [9]
+Times for each zone in the first generation where all zones were visited:
+Zone (2, 3): 5862 ms
+Zone (6, 3): 16894 ms
+Zone (8, 3): 25237 ms
+
+Car: 22
+Green Zone Visit Order: [(7, 1), (8, 3), (2, 3)]
+Green Zone Visit Times:
+Zone (7, 1): 9346 ms    Generation: 1
+Zone (8, 3): 17461 ms    Generation: 1
+Zone (2, 3): 6152 ms    Generation: 2
+Visit Sequences Per Generation:
+Generation 1: [((7, 1), 9346), ((8, 3), 17461)]
+Generation 2: [((2, 3), 6152)]
+Generation 3: [((2, 3), 6109)]
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: [((2, 3), 6915)]
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
+Car: 23
+Green Zone Visit Order: [(6, 3), (8, 3), (7, 1), (2, 3)]
+Green Zone Visit Times:
+Zone (6, 3): 9688 ms    Generation: 1
+Zone (8, 3): 16853 ms    Generation: 1
+Zone (7, 1): 28117 ms    Generation: 1
+Zone (2, 3): 5219 ms    Generation: 3
+Visit Sequences Per Generation:
+Generation 1: [((6, 3), 9688), ((8, 3), 16853), ((7, 1), 28117)]
+Generation 2: []
+Generation 3: [((2, 3), 5219)]
+Generation 4: [((2, 3), 6076)]
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: [((2, 3), 6846), ((6, 3), 22321), ((8, 3), 28883)]
+Generations where all 3 zones were visited: [1, 10]
+Times for each zone in the first generation where all zones were visited:
+Zone (6, 3): 9688 ms
+Zone (8, 3): 16853 ms
+Zone (7, 1): 28117 ms
+
+Car: 24
+Green Zone Visit Order: [(2, 3), (8, 3), (6, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 10151 ms    Generation: 2
+Zone (8, 3): 25471 ms    Generation: 3
+Zone (6, 3): 24008 ms    Generation: 7
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: [((2, 3), 10151)]
+Generation 3: [((2, 3), 8083), ((8, 3), 25471)]
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: [((2, 3), 6151), ((6, 3), 24008)]
+Generation 8: [((2, 3), 8507)]
+Generation 9: []
+Generation 10: [((2, 3), 6847), ((6, 3), 21915), ((8, 3), 30954)]
+Generations where all 3 zones were visited: [10]
+Times for each zone in the first generation where all zones were visited:
+Zone (2, 3): 6847 ms
+Zone (6, 3): 21915 ms
+Zone (8, 3): 30954 ms
+
+Car: 25
+Green Zone Visit Order: [(2, 3), (6, 3), (8, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 7112 ms    Generation: 1
+Zone (6, 3): 17745 ms    Generation: 1
+Zone (8, 3): 24195 ms    Generation: 2
+Visit Sequences Per Generation:
+Generation 1: [((2, 3), 7112), ((6, 3), 17745)]
+Generation 2: [((2, 3), 6204), ((6, 3), 15317), ((8, 3), 24195)]
+Generation 3: []
+Generation 4: [((2, 3), 6077), ((6, 3), 20848), ((8, 3), 29768)]
+Generation 5: [((2, 3), 5887), ((6, 3), 16966), ((8, 3), 25578)]
+Generation 6: [((2, 3), 6862), ((6, 3), 22833), ((8, 3), 32725)]
+Generation 7: [((2, 3), 6152), ((6, 3), 24047), ((8, 3), 37273)]
+Generation 8: [((2, 3), 6662)]
+Generation 9: []
+Generation 10: [((2, 3), 7918), ((6, 3), 25313)]
+Generations where all 3 zones were visited: [2, 4, 5, 6, 7]
+Times for each zone in the first generation where all zones were visited:
+Zone (2, 3): 6204 ms
+Zone (6, 3): 15317 ms
+Zone (8, 3): 24195 ms
+
+Car: 26
+Green Zone Visit Order: [(2, 3), (6, 3), (8, 3), (7, 1)]
+Green Zone Visit Times:
+Zone (2, 3): 5043 ms    Generation: 1
+Zone (6, 3): 23969 ms    Generation: 2
+Zone (8, 3): 18634 ms    Generation: 3
+Zone (7, 1): 27930 ms    Generation: 3
+Visit Sequences Per Generation:
+Generation 1: [((2, 3), 5043)]
+Generation 2: [((2, 3), 7793), ((6, 3), 23969)]
+Generation 3: [((6, 3), 11139), ((8, 3), 18634), ((7, 1), 27930)]
+Generation 4: [((6, 3), 10527), ((8, 3), 18686), ((7, 1), 26306)]
+Generation 5: [((2, 3), 6514), ((6, 3), 15975), ((8, 3), 22709), ((7, 1), 35006)]
+Generation 6: [((2, 3), 7800), ((6, 3), 24920), ((8, 3), 36576)]
+Generation 7: [((2, 3), 7232), ((6, 3), 17047), ((8, 3), 24187)]
+Generation 8: [((2, 3), 7518), ((6, 3), 19939), ((8, 3), 29742)]
+Generation 9: [((2, 3), 6716), ((6, 3), 22414), ((8, 3), 32284)]
+Generation 10: []
+Generations where all 3 zones were visited: [3, 4, 6, 7, 8, 9]
+Times for each zone in the first generation where all zones were visited:
+Zone (6, 3): 11139 ms
+Zone (8, 3): 18634 ms
+Zone (7, 1): 27930 ms
+
+Car: 27
+Green Zone Visit Order: [(2, 3), (6, 3), (8, 3), (7, 1)]
+Green Zone Visit Times:
+Zone (2, 3): 5106 ms    Generation: 1
+Zone (6, 3): 16199 ms    Generation: 1
+Zone (8, 3): 24505 ms    Generation: 1
+Zone (7, 1): 38154 ms    Generation: 6
+Visit Sequences Per Generation:
+Generation 1: [((2, 3), 5106), ((6, 3), 16199), ((8, 3), 24505)]
+Generation 2: []
+Generation 3: [((2, 3), 9128)]
+Generation 4: []
+Generation 5: [((2, 3), 21734)]
+Generation 6: [((6, 3), 11149), ((8, 3), 19853), ((7, 1), 38154)]
+Generation 7: []
+Generation 8: [((2, 3), 7519), ((6, 3), 20052)]
+Generation 9: [((2, 3), 6716), ((6, 3), 22494), ((8, 3), 29181), ((7, 1), 38161)]
+Generation 10: [((7, 1), 12516)]
+Generations where all 3 zones were visited: [1, 6]
+Times for each zone in the first generation where all zones were visited:
+Zone (2, 3): 5106 ms
+Zone (6, 3): 16199 ms
+Zone (8, 3): 24505 ms
+
+Car: 28
+Green Zone Visit Order: [(2, 3), (7, 1), (6, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 6155 ms    Generation: 3
+Zone (7, 1): 24309 ms    Generation: 3
+Zone (6, 3): 11590 ms    Generation: 5
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: [((2, 3), 6155), ((7, 1), 24309)]
+Generation 4: []
+Generation 5: [((6, 3), 11590), ((7, 1), 20214)]
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: [((2, 3), 7943), ((6, 3), 17891)]
+Generation 10: []
+
+Car: 29
+Green Zone Visit Order: [(2, 3), (6, 3), (8, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 7730 ms    Generation: 6
+Zone (6, 3): 24956 ms    Generation: 6
+Zone (8, 3): 34398 ms    Generation: 6
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: []
+Generation 6: [((2, 3), 7730), ((6, 3), 24956), ((8, 3), 34398)]
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: []
+Generations where all 3 zones were visited: [6]
+Times for each zone in the first generation where all zones were visited:
+Zone (2, 3): 7730 ms
+Zone (6, 3): 24956 ms
+Zone (8, 3): 34398 ms
+
+Car: 30
+Green Zone Visit Order: [(7, 1), (6, 3)]
+Green Zone Visit Times:
+Zone (7, 1): 13227 ms    Generation: 6
+Zone (6, 3): 22738 ms    Generation: 7
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: []
+Generation 6: [((7, 1), 13227)]
+Generation 7: [((6, 3), 22738)]
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
+Car: 31
+Green Zone Visit Order: [(6, 3), (8, 3), (7, 1), (2, 3)]
+Green Zone Visit Times:
+Zone (6, 3): 10996 ms    Generation: 3
+Zone (8, 3): 18023 ms    Generation: 3
+Zone (7, 1): 35520 ms    Generation: 3
+Zone (2, 3): 9601 ms    Generation: 8
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: [((6, 3), 10996), ((8, 3), 18023), ((7, 1), 35520)]
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: [((2, 3), 9601)]
+Generation 9: []
+Generation 10: []
+Generations where all 3 zones were visited: [3]
+Times for each zone in the first generation where all zones were visited:
+Zone (6, 3): 10996 ms
+Zone (8, 3): 18023 ms
+Zone (7, 1): 35520 ms
+
+Car: 32
+Green Zone Visit Order: [(6, 3), (2, 3)]
+Green Zone Visit Times:
+Zone (6, 3): 29963 ms    Generation: 3
+Zone (2, 3): 6780 ms    Generation: 8
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: [((6, 3), 29963)]
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: [((2, 3), 6780)]
+Generation 9: []
+Generation 10: []
+
+Car: 33
+Green Zone Visit Order: [(2, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 9000 ms    Generation: 3
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: [((2, 3), 9000)]
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
+Car: 34
+Green Zone Visit Order: [(2, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 5399 ms    Generation: 2
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: [((2, 3), 5399)]
+Generation 3: []
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
+Car: 35
+Green Zone Visit Order: [(7, 1), (6, 3), (2, 3), (8, 3)]
+Green Zone Visit Times:
+Zone (7, 1): 20657 ms    Generation: 3
+Zone (6, 3): 29355 ms    Generation: 3
+Zone (2, 3): 7521 ms    Generation: 8
+Zone (8, 3): 22022 ms    Generation: 8
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: [((7, 1), 20657), ((6, 3), 29355)]
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: [((2, 3), 7521), ((8, 3), 22022)]
+Generation 9: [((7, 1), 12435)]
+Generation 10: [((7, 1), 9290)]
+
+Car: 36
+Green Zone Visit Order: [(2, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 5703 ms    Generation: 8
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: [((2, 3), 5703)]
+Generation 9: []
+Generation 10: []
+
+Car: 37
+Green Zone Visit Order: [(2, 3), (8, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 21285 ms    Generation: 6
+Zone (8, 3): 33417 ms    Generation: 7
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: []
+Generation 6: [((2, 3), 21285)]
+Generation 7: [((2, 3), 9387), ((8, 3), 33417)]
+Generation 8: []
+Generation 9: []
+Generation 10: [((2, 3), 5949)]
+
+Car: 38
+Green Zone Visit Order: [(7, 1), (2, 3)]
+Green Zone Visit Times:
+Zone (7, 1): 7944 ms    Generation: 2
+Zone (2, 3): 19522 ms    Generation: 4
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: [((7, 1), 7944)]
+Generation 3: [((7, 1), 8474)]
+Generation 4: [((2, 3), 19522)]
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
+Car: 39
+Green Zone Visit Order: [(6, 3), (7, 1)]
+Green Zone Visit Times:
+Zone (6, 3): 29964 ms    Generation: 3
+Zone (7, 1): 9291 ms    Generation: 10
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: [((6, 3), 29964)]
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: [((7, 1), 9291)]
+
+Car: 40
+Green Zone Visit Order: [(2, 3), (8, 3), (6, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 21736 ms    Generation: 5
+Zone (8, 3): 22055 ms    Generation: 8
+Zone (6, 3): 29662 ms    Generation: 10
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: [((2, 3), 21736)]
+Generation 6: []
+Generation 7: []
+Generation 8: [((2, 3), 7524), ((8, 3), 22055)]
+Generation 9: []
+Generation 10: [((6, 3), 29662)]
+
+Car: 41
+Green Zone Visit Order: [(2, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 7134 ms    Generation: 3
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: [((2, 3), 7134)]
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
+Car: 42
+Green Zone Visit Order: [(2, 3), (6, 3), (7, 1)]
+Green Zone Visit Times:
+Zone (2, 3): 8875 ms    Generation: 2
+Zone (6, 3): 23659 ms    Generation: 2
+Zone (7, 1): 10755 ms    Generation: 4
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: [((2, 3), 8875), ((6, 3), 23659)]
+Generation 3: []
+Generation 4: [((7, 1), 10755)]
+Generation 5: [((2, 3), 20360)]
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
+Car: 43
+Green Zone Visit Order: [(2, 3), (6, 3), (8, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 21737 ms    Generation: 5
+Zone (6, 3): 24772 ms    Generation: 10
+Zone (8, 3): 33678 ms    Generation: 10
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: [((2, 3), 21737)]
+Generation 6: []
+Generation 7: []
+Generation 8: [((2, 3), 9423)]
+Generation 9: []
+Generation 10: [((2, 3), 11562), ((6, 3), 24772), ((8, 3), 33678)]
+Generations where all 3 zones were visited: [10]
+Times for each zone in the first generation where all zones were visited:
+Zone (2, 3): 11562 ms
+Zone (6, 3): 24772 ms
+Zone (8, 3): 33678 ms
+
+Car: 44
+Green Zone Visit Order: [(7, 1), (2, 3), (8, 3)]
+Green Zone Visit Times:
+Zone (7, 1): 7970 ms    Generation: 3
+Zone (2, 3): 11620 ms    Generation: 9
+Zone (8, 3): 23654 ms    Generation: 9
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: [((7, 1), 7970)]
+Generation 4: [((7, 1), 10757)]
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: [((2, 3), 11620), ((8, 3), 23654), ((7, 1), 36375)]
+Generation 10: []
+Generations where all 3 zones were visited: [9]
+Times for each zone in the first generation where all zones were visited:
+Zone (2, 3): 11620 ms
+Zone (8, 3): 23654 ms
+Zone (7, 1): 36375 ms
+
+Car: 45
+Green Zone Visit Order: [(7, 1), (2, 3)]
+Green Zone Visit Times:
+Zone (7, 1): 11719 ms    Generation: 7
+Zone (2, 3): 5710 ms    Generation: 8
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: [((7, 1), 11719)]
+Generation 8: [((2, 3), 5710)]
+Generation 9: []
+Generation 10: []
+
+Car: 46
+Green Zone Visit Order: [(2, 3), (8, 3)]
+Green Zone Visit Times:
+Zone (2, 3): 7624 ms    Generation: 6
+Zone (8, 3): 29969 ms    Generation: 6
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: []
+Generation 6: [((2, 3), 7624), ((8, 3), 29969)]
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
+Car: 47
+Green Zone Visit Order: [(6, 3), (2, 3), (8, 3)]
+Green Zone Visit Times:
+Zone (6, 3): 10834 ms    Generation: 1
+Zone (2, 3): 11847 ms    Generation: 4
+Zone (8, 3): 35120 ms    Generation: 6
+Visit Sequences Per Generation:
+Generation 1: [((6, 3), 10834)]
+Generation 2: []
+Generation 3: []
+Generation 4: [((2, 3), 11847), ((6, 3), 24857)]
+Generation 5: [((2, 3), 21738)]
+Generation 6: [((2, 3), 6871), ((6, 3), 22705), ((8, 3), 35120)]
+Generation 7: []
+Generation 8: [((2, 3), 5712)]
+Generation 9: []
+Generation 10: []
+Generations where all 3 zones were visited: [6]
+Times for each zone in the first generation where all zones were visited:
+Zone (2, 3): 6871 ms
+Zone (6, 3): 22705 ms
+Zone (8, 3): 35120 ms
+
+Car: 48
+Green Zone Visit Order: [(2, 3), (6, 3), (8, 3), (7, 1)]
+Green Zone Visit Times:
+Zone (2, 3): 7517 ms    Generation: 5
+Zone (6, 3): 18687 ms    Generation: 5
+Zone (8, 3): 24818 ms    Generation: 5
+Zone (7, 1): 33851 ms    Generation: 5
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: [((2, 3), 7517), ((6, 3), 18687), ((8, 3), 24818), ((7, 1), 33851)]
+Generation 6: [((2, 3), 12611)]
+Generation 7: []
+Generation 8: [((7, 1), 9894), ((8, 3), 17958)]
+Generation 9: []
+Generation 10: []
+
+Car: 49
+Green Zone Visit Order: []
+Green Zone Visit Times:
+Visit Sequences Per Generation:
+Generation 1: []
+Generation 2: []
+Generation 3: []
+Generation 4: []
+Generation 5: []
+Generation 6: []
+Generation 7: []
+Generation 8: []
+Generation 9: []
+Generation 10: []
+
